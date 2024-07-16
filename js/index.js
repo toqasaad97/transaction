@@ -11,3 +11,6 @@ async function dataFetch() {
         console.error("Error fetching data:", error);
     }
 }
+function findCustomer(customerId) {
+    return data.customers.find((customer) => customer.id === customerId);
+}
