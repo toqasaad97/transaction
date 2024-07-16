@@ -9,3 +9,9 @@ This repository contains the source code for a customer transaction management w
 ## Installation
 Clone the repository:
 git clone : https://github.com/toqasaad97/transaction.git
+Change to the project directory.
+cd transaction
+Install the necessary dependencies.
+npm install
+Run the development server.
+npm run dev
