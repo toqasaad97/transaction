@@ -8,7 +8,10 @@ This repository contains the source code for a customer transaction management w
 - Designed with a colorful and responsive UI using Bootstrap and custom CSS.
 ## Installation
  1-Clone the repository:
-git clone : https://github.com/toqasaad97/transaction.git
+```shell
+git clone :
+ https://github.com/toqasaad97/transaction.git
+```
  2-Change to the project directory.
 cd transaction
 3-Install the necessary dependencies.
