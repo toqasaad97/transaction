@@ -7,11 +7,11 @@ This repository contains the source code for a customer transaction management w
 - Uses Chart.js to create a responsive bar graph showing total transaction amounts per customer.
 - Designed with a colorful and responsive UI using Bootstrap and custom CSS.
 ## Installation
-Clone the repository:
+ 1-Clone the repository:
 git clone : https://github.com/toqasaad97/transaction.git
-Change to the project directory.
+ 2-Change to the project directory.
 cd transaction
-Install the necessary dependencies.
+3-Install the necessary dependencies.
 npm install
-Run the development server.
+4- Run the development server.
 npm run dev
