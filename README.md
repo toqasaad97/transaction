@@ -13,8 +13,15 @@ git clone :
  https://github.com/toqasaad97/transaction.git
 ```
  2-Change to the project directory.
+ ```
 cd transaction
+```
+
 3-Install the necessary dependencies.
+```
 npm install
+```
 4- Run the development server.
+```
 npm run dev
+```
